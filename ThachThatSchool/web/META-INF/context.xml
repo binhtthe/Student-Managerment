@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/ThachThatSchool">
+  <Environment name="org.apache.el.parser.SKIP_IDENTIFIER_CHECK" override="false" type="java.lang.String" value="true"/>
+</Context>
